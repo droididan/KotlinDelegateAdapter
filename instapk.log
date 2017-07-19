@@ -1,0 +1,50 @@
+Jul 16, 2017 10:51:28 AM com.pytenlabs.instapk.helpers.LogHelper init
+INFO: Mac OS X, 10.12.5, x86_64, Android Studio AI-171.4249.39
+Jul 16, 2017 10:51:29 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 10:51:29 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 10:51:29 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.apps.northop.delegateadapterkotlin', projectName='DelegateAdapterKotlin'}
+Jul 16, 2017 11:02:41 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 11:02:41 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 11:02:41 AM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.walla', projectName='WallaTablet'}
+Jul 16, 2017 12:04:41 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 12:04:41 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 12:04:41 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.walla.wallahamal', projectName='WallaHamal'}
+Jul 16, 2017 12:58:22 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 12:58:22 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 12:58:22 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.walla.wallahamal', projectName='WallaHamal'}
+Jul 16, 2017 3:17:43 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 3:17:43 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 3:17:43 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.smilebackapp.smileback', projectName='SmileBack'}
+Jul 16, 2017 3:54:07 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 3:54:07 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 3:54:07 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.cjj.materialsearchview', projectName='MaterialSearchView'}
+Jul 16, 2017 3:57:56 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 3:57:56 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 3:57:56 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='com.apps.northop.delegateadapterkotlin', projectName='DelegateAdapterKotlin'}
+Jul 16, 2017 4:05:00 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+INFO: Found Facet: Android
+Jul 16, 2017 4:05:00 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper lambda$getProjectDetails$0
+WARNING: org.jetbrains.android.facet.AndroidFacet.getAndroidModuleInfo()
+Jul 16, 2017 4:05:00 PM com.pytenlabs.instapk.helpers.ProjectInfoHelper getProjectDetails
+INFO: ProjectInfo{versionCode=1, versionName='1.0', packageName='droidmentor.searchviewsample', projectName='SearchViewSample-master'}
